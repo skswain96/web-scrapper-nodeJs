@@ -1,0 +1,8 @@
+> npn install
+> node server.js
+
+OR
+
+> nodemon server.js
+
+on browser open http://localhost:8081/
